@@ -1,8 +1,7 @@
 # Fly-India-
 
-  Apk Link:- https://github.com/vinodtak/Fly-India-/blob/master/flyindia.apk?raw=true
-           <h2>Apk Link</h2>
-<p><a href="https://github.com/vinodtak/Fly-India-/blob/master/flyindia.apk?raw=true">Download and install FlyIndia Apk</a></p>
+      <h2>Apk Link:- </h2><p><a href="https://github.com/vinodtak/Fly-India-/blob/master/flyindia.apk?raw=true">Download and install FlyIndia Apk</a></p>
+        
         Features of our Application:
 
 Fly India is an application showing details of Departure and Arrival Flights with flight number, date, depart & arrive time and terminal. User can check there flight details, flight Status of booked ticket through their Ticket PNR Number.
@@ -26,7 +25,7 @@ Customs: This feature gives all the details regarding airport customs.
 
 There are some useful links in our Application FLY INDIA (Such as Offers regarding to flight booking on different airlines, food booking, and flight news)
             
-             App ScreenShot
+                                              App ScreenShot
            
 <div align="center">
         <img width="30%" src="https://raw.githubusercontent.com/vinodtak/Fly-India-/master/Screenshot_20181220-191957.png" alt="Home screen" title="Home screen"</img>
