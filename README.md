@@ -31,7 +31,7 @@ There are some useful links in our Application FLY INDIA (Such as Offers regardi
 <div align="center">
         <img width="30%" src="https://raw.githubusercontent.com/vinodtak/Fly-India-/master/Screenshot_20181220-191957.png" alt="Home screen" title="Home screen"</img>
         <img width="30%" src="https://raw.githubusercontent.com/vinodtak/Fly-India-/master/Screenshot_20181220-192010.png" alt="Airport" title="Airport"></img>
-         <img width="30%" height="50%" src="https://raw.githubusercontent.com/vinodtak/Fly-India-/master/Screenshot_20181220-192023.png" alt="Home screen" title="Flight Detail"</img>
+         <img width="30%"  src="https://raw.githubusercontent.com/vinodtak/Fly-India-/master/Screenshot_20181220-192023.png" alt="Home screen" title="Flight Detail"</img>
 </div>
 <div align="center">
         <img width="30%" src="https://raw.githubusercontent.com/vinodtak/Fly-India-/master/Screenshot_20181220-192054.png" alt="Cab" title="Cab"</img>
