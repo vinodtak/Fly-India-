@@ -1,16 +1,9 @@
 # Fly-India-
-  Install Node version 0.10 or greater
 
-    `Install using package manager, e.g. apt or yum
-    <https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager>`_
-
-    `Install without using package manager
-    <https://github.com/joyent/node/wiki/Installation>`_
-
-        Download and install FlyIndia Apk 
+     Download and install FlyIndia Apk 
   https://github.com/vinodtak/Fly-India-/blob/master/flyindia.apk?raw=true
 
-Features of our Application:
+        Features of our Application:
 
 Fly India is an application showing details of Departure and Arrival Flights with flight number, date, depart & arrive time and terminal. User can check there flight details, flight Status of booked ticket through their Ticket PNR Number.
 
