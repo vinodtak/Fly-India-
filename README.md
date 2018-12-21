@@ -1,8 +1,7 @@
 # Fly-India-
   
-Download and install FlyIndia Apk
-  
-    https://github.com/vinodtak/Fly-India-/blob/master/flyindia.apk?raw=true
+        Download and install FlyIndia Apk 
+  https://github.com/vinodtak/Fly-India-/blob/master/flyindia.apk?raw=true
 
 Features of our Application:
 
