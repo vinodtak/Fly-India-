@@ -25,5 +25,9 @@ Customs: This feature gives all the details regarding airport customs.
 
 
 There are some useful links in our Application FLY INDIA (Such as Offers regarding to flight booking on different airlines, food booking, and flight news)
+<div align="center">
+        <img width="45%" src="https://raw.githubusercontent.com/vinodtak/Fly-India-/master/Screenshot_20181220-191957.png" alt="Home screen" title="Home screen"</img>
+        <img height="0" width="8px">
+        <img width="45%" src="screen-shots/list.PNG" alt="List screen" title="List screen"></img>
+</div>
 
-![Screenshot](https://raw.githubusercontent.com/vinodtak/Fly-India-/master/Screenshot_20181220-191957.png)
