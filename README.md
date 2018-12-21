@@ -1,7 +1,8 @@
 # Fly-India-
 
-<h2>   Apk Link:- </h2><p><a href="https://github.com/vinodtak/Fly-India-/blob/master/flyindia.apk?raw=true">Download and install FlyIndia Apk</a></p>
-        
+     Download and install FlyIndia Apk 
+  Apk Link:- https://github.com/vinodtak/Fly-India-/blob/master/flyindia.apk?raw=true
+
         Features of our Application:
 
 Fly India is an application showing details of Departure and Arrival Flights with flight number, date, depart & arrive time and terminal. User can check there flight details, flight Status of booked ticket through their Ticket PNR Number.
@@ -25,12 +26,12 @@ Customs: This feature gives all the details regarding airport customs.
 
 There are some useful links in our Application FLY INDIA (Such as Offers regarding to flight booking on different airlines, food booking, and flight news)
             
-                                              App ScreenShot
+             App ScreenShot
            
 <div align="center">
         <img width="30%" src="https://raw.githubusercontent.com/vinodtak/Fly-India-/master/Screenshot_20181220-191957.png" alt="Home screen" title="Home screen"</img>
         <img width="30%" src="https://raw.githubusercontent.com/vinodtak/Fly-India-/master/Screenshot_20181220-192010.png" alt="Airport" title="Airport"></img>
-         <img width="30%" src="https://raw.githubusercontent.com/vinodtak/Fly-India-/master/Screenshot_20181220-192023.png" alt="Home screen" title="Flight Detail"</img>
+         <img width="30%" height="50%" src="https://raw.githubusercontent.com/vinodtak/Fly-India-/master/Screenshot_20181220-192023.png" alt="Home screen" title="Flight Detail"</img>
 </div>
 <div align="center">
         <img width="30%" src="https://raw.githubusercontent.com/vinodtak/Fly-India-/master/Screenshot_20181220-192054.png" alt="Cab" title="Cab"</img>
